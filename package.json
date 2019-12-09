@@ -4,6 +4,7 @@
   "description": "mus-bot",
   "main": "mus.js",
   "dependencies": {
+    "discord.js": "^11.5.1",
     "ffmpeg": "0.0.4",
     "m3u8stream": "^0.6.3",
     "ytdl-core": "^1.0.3"

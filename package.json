@@ -1,0 +1,16 @@
+{
+  "name": "mus",
+  "version": "1.0.0",
+  "description": "mus-bot",
+  "main": "mus.js",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "m3u8stream": "^0.6.3",
+    "ytdl-core": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "un-boxing-man",
+  "license": "ISC"
+}
